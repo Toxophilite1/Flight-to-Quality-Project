@@ -1,4 +1,4 @@
-# FLight to Quality Project
+# Flight to Quality Project
 ##  Overview of Project
 This projects investigates the performance of the financial markets during times of global crisis.  
 Included is the consideration of the phenomenon  known as flight-to quality where investors move from riskier to safer products.   
